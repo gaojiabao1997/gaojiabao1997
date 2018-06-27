@@ -40,8 +40,8 @@ html,body{
 #speak{
 	z-index:3;
 	position: absolute;
-	left:50%;
-	top:19%;
+	left:100%;
+	top:-200%;
 	animation: myfirst 10s;
 	-moz-animation: myfirst 10s;	/* Firefox */
 	-webkit-animation: myfirst 10s;	/* Safari 和 Chrome */
